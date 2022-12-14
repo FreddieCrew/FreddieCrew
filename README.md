@@ -1,4 +1,4 @@
-<h1 class="portfolio" onload="transform: rotate(360deg);">My Portfolio</h1>
+<h1 class="portfolio">My Portfolio</h1>
 
 <h2><li> 👋 Hi, my name is ..............., and i live in Houston, Texas, US. I'm 20 y/o ...</li></h2></em>
 
