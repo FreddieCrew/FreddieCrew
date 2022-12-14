@@ -7,5 +7,5 @@
 i'm a senior developer on C, Javascript, Java, and HTML and Pawn ...</h2>
 <hr>
 <strong>Click on the button above to visit my project!</strong>
-<h2 href="test"><img src="https://war-worn-shift.000webhostapp.com/images/button.pnghttps://war-worn-shift.000webhostapp.com/src/images/button.png" alt="Button"></img></h2>
+<h2 href="test"><img src="https://war-worn-shift.000webhostapp.com/images/button.png" alt="Button"></img></h2>
 
