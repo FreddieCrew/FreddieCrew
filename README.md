@@ -1,6 +1,6 @@
 <h1 class="portfolio">My Portfolio</h1>
 
-<h2><li> 👋 Hi, my name is ..............., and i live in Houston, Texas, US. I'm 20 y/o ...</li></h2></em>
+<h2><li> 👋 Hi, my name is ..............., and i live in Houston, Texas, US. I'm .. y/o ...</li></h2></em>
 
 <strong><li>👀 I love gamedev, and web dev ..</strong></li>
 
