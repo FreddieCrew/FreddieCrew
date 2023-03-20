@@ -7,13 +7,10 @@
 <table>
   <tr>
     <th>Javascript</th>
-    <th>Java</th>
     <th>HTML/CSS</th>
     <th>PHP</th>
     <th>Python</th>
     <th>Pawn</th>
-    <th>Lua</th>
-    <th>Git</th>
   </tr>
   
   <tr>
@@ -29,13 +26,10 @@
   
   <tr>
     <td>Experince 3/5</td>
+    <td>Experince 4/5</td>
+    <td>Experince 2/5</td>
     <td>Experince 2/5</td>
     <td>Experince 4.5/5</td>
-    <td>Experince 3.5/5</td>
-    <td>Experince 3.5/5</td>
-    <td>Experince 4/5</td>
-    <td>Experince 1/5</td>
-    <td>Experince 4/5</td>
   </tr>
   
 </table>
