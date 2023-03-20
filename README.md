@@ -4,33 +4,39 @@
 
 <center>
   <h5>My Experiences:</h5>
-<table style="background:black;">
-  <tr align="center">
-    <th>Language</th>
-    <th>Experience level</th>
+<table>
+  <tr>
+    <th>Javascript</th>
+    <th>Java</th>
+    <th>HTML/CSS</th>
+    <th>PHP</th>
+    <th>Python</th>
+    <th>Pawn</th>
+    <th>Lua</th>
+    <th>Git</th>
   </tr>
   
-  <tr align="center">
-  <td>HTML/CSS</td>
-    <td>4/5</td>
-  </tr>
-  <tr align="center">
-    <td>C/++</td>
-    <td>3/5</td>
-  </tr align="center">
-  <tr align="center">
-  <td>Pawn</td>
-  <td>4/5</td>
-  </tr>
-  <tr align="center">
-  <td>Javascript</td>
-    <td>3/5</td>
-  </tr>
-  <tr align="center">
-  <td>Python</td>
-    <th>2/5</th>
-  </tr>
   <tr>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-javascript.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-html.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-php.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-python.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-pawn.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-lua.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-git.png"/></center></td>
   </tr>
+  
+  <tr>
+    <td>Experince 3/5</td>
+    <td>Experince 2/5</td>
+    <td>Experince 4.5/5</td>
+    <td>Experince 3.5/5</td>
+    <td>Experince 3.5/5</td>
+    <td>Experince 4/5</td>
+    <td>Experince 1/5</td>
+    <td>Experince 4/5</td>
+  </tr>
+  
 </table>
 </center>
