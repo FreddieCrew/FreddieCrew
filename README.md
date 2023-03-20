@@ -1,5 +1,6 @@
 <p align="center">
   [![Discord Presence](https://lanyard.cnrad.dev/api/937116391046283355)](https://discord.com/users/937116391046283355)
+  <img src="https://lanyard.cnrad.dev/api/937116391046283355">
   <img src="https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=S&theme=dark">
 </p>
 
