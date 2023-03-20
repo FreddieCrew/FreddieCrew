@@ -1,14 +1,36 @@
-<h1 class="portfolio">My Portfolio</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/937116391046283355)](https://discord.com/users/937116391046283355)
 
-<h2><li> 👋 Hi, my name is ..............., and i live in Houston, Texas, US. I'm .. y/o ...</li></h2></em>
+<h2>Hey there, welcome to my github profile!</h2>
 
-<strong><li>👀 I love gamedev, and web dev ..</strong></li>
-
-<strong><li>I'm currently learning C#, C++, Python and Ruby.</strong></li>
-
-<li>i'm a senior developer on C, Javascript, Java, and HTML and Pawn ...</h2></li>
-<hr>
-<e><strong>&nbsp;&nbsp;&nbsp; Click on the button below to visit the repo of my project!</strong>
-
-<a href="https://github.com/FreddieCrew/wInc"><img src="http://war-worn-shift.000webhostapp.com/src/images/68747470733a2f2f7761722d776f726e2d73686966742e303030776562686f73746170702e636f6d2f7372632f696d616765732f627574746f6e2e706e67r.png" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=Download Beta&amp;color=2BB4AB" style="max-width: 100%;"></a>
-
+<h5 align="center">My Experiences:</h5>
+<center>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Experience level</th>
+  </tr>
+  
+  <tr>
+  <td>HTML/CSS</td>
+    <td>4/5</td>
+  </tr>
+  <tr>
+    <td>C/++</td>
+    <td>3/5</td>
+  </tr>
+  <tr>
+  <td>Pawn</td>
+  <td>4/5</td>
+  </tr>
+  <tr>
+  <td>Javascript</td>
+    <td>3/5</td>
+  </tr>
+  <tr>
+  <td>Python</td>
+    <th>2/5</th>
+  </tr>
+  <tr>
+  </tr>
+</table>
+</center>
