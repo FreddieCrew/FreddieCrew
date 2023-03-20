@@ -10,7 +10,7 @@
 
 <center>
   <h2 align="center">My Experiences:</h2>
-<table align="center" style="background-color:black">
+<table align="center" color="black">
   <tr>
     <th>Javascript</th>
     <th>HTML/CSS</th>
@@ -19,7 +19,7 @@
     <th>Pawn</th>
   </tr>
   
-  <tr background="black">
+  <tr>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-javascript.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-html.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-php.png?raw=true"/></center></td>
