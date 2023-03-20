@@ -2,8 +2,8 @@
 
 <h2>Hey there, welcome to my github profile!</h2>
 
-<h5 align="center">My Experiences:</h5>
 <center>
+  <h5>My Experiences:</h5>
 <table>
   <tr align="center">
     <th>Language</th>
