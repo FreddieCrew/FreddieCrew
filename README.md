@@ -9,7 +9,7 @@
 </p>
 
 <center>
-  <h2>My Experiences:</h2>
+  <h2 align="center">My Experiences:</h2>
 <table>
   <tr>
     <th>Javascript</th>
