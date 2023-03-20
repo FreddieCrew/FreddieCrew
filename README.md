@@ -38,4 +38,4 @@
 </table>
 </center>
 <hr height="15em">
-<p align="center"><a href="https://freddiecrew.github.io/site/">See my sh*tty website</p></a>
+<p align="center"><a href="https://freddiecrew.github.io/site/">See my <s>Shitty</s> personal website</p></a>
