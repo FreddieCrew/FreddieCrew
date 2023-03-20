@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/937116391046283355" height="180em">
+<img src="https://lanyard.cnrad.dev/api/937116391046283355" height="200em">
 </p>
 
 <h2>Hey there, welcome to my github profile!</h2>
