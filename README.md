@@ -22,11 +22,11 @@
   </tr>
   
   <tr>
-    <td>Experince 3/5</td>
-    <td>Experince 4/5</td>
-    <td>Experince 2/5</td>
-    <td>Experince 2/5</td>
-    <td>Experince 4.5/5</td>
+    <td>3/5</td>
+    <td>4/5</td>
+    <td>2/5</td>
+    <td>2/5</td>
+    <td>4.5/5</td>
   </tr>
   
 </table>
