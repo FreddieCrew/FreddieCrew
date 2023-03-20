@@ -10,7 +10,7 @@
 
 <center>
   <h2 align="center">My Experiences:</h2>
-<table align="center" background="black">
+<table align="center" style="background-color:black">
   <tr>
     <th>Javascript</th>
     <th>HTML/CSS</th>
