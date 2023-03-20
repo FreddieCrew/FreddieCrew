@@ -5,28 +5,28 @@
 <h5 align="center">My Experiences:</h5>
 <center>
 <table>
-  <tr>
+  <tr align="center">
     <th>Language</th>
     <th>Experience level</th>
   </tr>
   
-  <tr>
+  <tr align="center">
   <td>HTML/CSS</td>
     <td>4/5</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>C/++</td>
     <td>3/5</td>
-  </tr>
-  <tr>
+  </tr align="center">
+  <tr align="center">
   <td>Pawn</td>
   <td>4/5</td>
   </tr>
-  <tr>
+  <tr align="center">
   <td>Javascript</td>
     <td>3/5</td>
   </tr>
-  <tr>
+  <tr align="center">
   <td>Python</td>
     <th>2/5</th>
   </tr>
