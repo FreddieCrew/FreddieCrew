@@ -19,7 +19,7 @@
     <th>Pawn</th>
   </tr>
   
-  <tr>
+  <tr background="black">
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-javascript.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-html.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-php.png?raw=true"/></center></td>
