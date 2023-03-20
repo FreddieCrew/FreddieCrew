@@ -1,4 +1,4 @@
-<h2>Hey there, welcome to my github profile!</h2>
+<h2 align="center">Hey there, welcome to my github profile!</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=Github+Stats&theme=dark">
 </p>
