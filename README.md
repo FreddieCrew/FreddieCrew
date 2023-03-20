@@ -14,11 +14,11 @@
   </tr>
   
   <tr>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-javascript.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-html.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-php.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-python.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-pawn.png"/></center></td>
+    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-javascript.png?raw=true"/></center></td>
+    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-html.png?raw=true"/></center></td>
+    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-php.png?raw=true"/></center></td>
+    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-python.png?raw=true"/></center></td>
+    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-pawn.png?raw=true"/></center></td>
   </tr>
   
   <tr>
