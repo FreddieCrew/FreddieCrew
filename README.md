@@ -14,14 +14,11 @@
   </tr>
   
   <tr>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-javascript.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-html.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-php.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-python.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-pawn.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-lua.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-git.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-javascript.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-html.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-php.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-python.png"/></center></td>
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/FreddieCrew/FreddieCrew/main/images/lang-pawn.png"/></center></td>
   </tr>
   
   <tr>
