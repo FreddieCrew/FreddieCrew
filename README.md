@@ -1,6 +1,7 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/937116391046283355)](https://discord.com/users/937116391046283355)
-
-https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=S&theme=dark
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/937116391046283355)](https://discord.com/users/937116391046283355">
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=S&theme=dark">
+</p>
 
 <h2>Hey there, welcome to my github profile!</h2>
 
