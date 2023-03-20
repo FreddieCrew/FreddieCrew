@@ -38,4 +38,4 @@
 </table>
 </center>
 
-<button type="submit">See my sh*tty website</button>
+<p> <a href="https://www.freddiecrew.github.io/site">See my sh*tty website</a>.</p>
