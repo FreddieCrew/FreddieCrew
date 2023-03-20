@@ -1,3 +1,4 @@
+<h2>Hey there, welcome to my github profile!</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=Github+Stats&theme=dark">
 </p>
@@ -7,10 +8,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddieCrew&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true" height="200em">
 </p>
 
-<h2>Hey there, welcome to my github profile!</h2>
-
 <center>
-  <h5>My Experiences:</h5>
+  <h2>My Experiences:</h2>
 <table>
   <tr>
     <th>Javascript</th>
