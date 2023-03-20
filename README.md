@@ -37,5 +37,5 @@
   
 </table>
 </center>
-<hr/>
-<p><a href="https://freddiecrew.github.io/site/">See my sh*tty website</p></a>
+<hr height="20em">
+<p align="center"><a href="https://freddiecrew.github.io/site/">See my sh*tty website</p></a>
