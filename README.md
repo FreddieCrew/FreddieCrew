@@ -38,5 +38,5 @@
 </table>
 </center>
 <hr height="15em">
-<p align="center"><a href="https://freddiecrew.github.io/legacy-site/" target="_blank">See my <s>Shitty</s> personal website</p></a>
-<p align="center"><a href="https://freddiecrew.github.io/site/" target="_blank">See my <s>Shitty</s> legacy version personal website</p></a>
+<p align="center"><a href="https://freddiecrew.github.io/site/" target="_blank">See my <s>Shitty</s> personal website</p></a>
+<p align="center"><a href="https://freddiecrew.github.io/legacy-site/" target="_blank">See my <s>Shitty</s> legacy version personal website</p></a>
