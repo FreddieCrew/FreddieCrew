@@ -17,6 +17,7 @@
     <th>PHP</th>
     <th>Python</th>
     <th>Pawn</th>
+    <th>C++</th>
   </tr>
   
   <tr>
