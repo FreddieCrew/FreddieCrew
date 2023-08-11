@@ -25,7 +25,7 @@
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-php.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-python.png?raw=true"/></center></td>
     <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/lang-pawn.png?raw=true"/></center></td>
-    <td><center><img height="64em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/cpp.png?raw=true"/></center></td>
+    <td><center><img height="54em" src="https://github.com/FreddieCrew/FreddieCrew/blob/main/images/cpp.png?raw=true"/></center></td>
   </tr>
   
   <tr>
