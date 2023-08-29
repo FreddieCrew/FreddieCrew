@@ -1,4 +1,5 @@
-<h2 align="center">Hey there, welcome to my github profile!</h2>
+<h2 align="center">Howdy, welcome to my Github account!</h2>
+<p>Y'all can take your time digging into this profile, but I wouldn't go too far, because honestly most of it is just a load of crap.</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreddieCrew&custom_title=Github+Stats&theme=dark">
 </p>
@@ -9,7 +10,7 @@
 </p>
 
 <center>
-  <h2 align="center">My Experiences:</h2>
+  <h2 align="center">Favorite languages:</h2>
 <table align="center">
   <tr>
     <th>Javascript</th>
