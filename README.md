@@ -10,7 +10,7 @@
 </p>
 
 <center>
-  <h2 align="center">Favorite languages:</h2>
+  <h2 align="center">Skillset:</h2>
 <table align="center">
   <tr>
     <th>Javascript</th>
