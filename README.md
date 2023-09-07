@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://lanyard.cnrad.dev/api/937116391046283355" height="200em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddieCrew&layout=compact&langs_count=15&theme=dark&bg_color=1a1c1f&hide_border=true" height="200em" width="200em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddieCrew&layout=compact&langs_count=15&theme=dark&bg_color=1a1c1f&hide_border=true" height="200em" width="300em">
 </p>
 
 <center>
