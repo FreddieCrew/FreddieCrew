@@ -1,6 +1,6 @@
 <h2>Welcome Y'all</h2>
 <p>
-  My name's John Michael Reyes, but you can call me John or Reyes.
+  My name is John Michael Reyes, but you can call me John or Reyes.
 </p>
 <h3>About me</h3>
   <p>
