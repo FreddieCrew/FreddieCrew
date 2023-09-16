@@ -4,7 +4,7 @@
 </p>
 <h3>About me</h3>
   <p>
-  I love programming, balling, playing games, astronomy, physics.
+  I love programming, playing basketball, playing games, astronomy, physics.
 
   I currently work as a Hardware Engineer;
   I'm born in El Paso, TX, but I currently live in Houston, TX.
