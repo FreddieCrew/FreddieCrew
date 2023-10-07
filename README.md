@@ -10,7 +10,7 @@
   I'm born in El Paso, TX, but I currently live in Houston, TX.
   </p>
 
-  <h3>What I do?</h3>
+  <h3>What I Do?</h3>
   <p>
     I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
   </p>
