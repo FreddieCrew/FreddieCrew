@@ -5,9 +5,7 @@
 <h3>About me</h3>
   <p>
   I love programming, playing basketball, playing games, astronomy, physics.
-  I'm born in El Paso, TX, but I currently live in Houston, TX.
-  
-  I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
+  I'm born in El Paso, TX, but I currently live in Houston, TX. I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
   </p>
 <h3>Skillset</h3>
 
