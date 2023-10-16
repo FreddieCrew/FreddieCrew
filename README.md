@@ -10,10 +10,10 @@
   I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
   </p>
 <h3>Techstack</h3>
-[![](https://skillicons.dev/icons?i=c,cpp,nextjs,react,nuxtjs,ts,html,css,js,ts,python,sql,go,php,tailwind,bootstrap,nodejs)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=c,cpp,nextjs,react,nuxtjs,ts,html,css,js,ts,python,sql,go,php,tailwind,bootstrap,nodejs">
 
 <h3>Databases</h3>
-[![](https://skillicons.dev/icons?i=mysql,cassandra,mongodb,sqlite,postgres,firebase,dynamodb)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=mysql,cassandra,mongodb,sqlite,postgres,firebase,dynamodb">
 
 <h3>Tools</h3>
-[![](https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,ps,vercel,netlify,git,prisma,bash,powershell,linux,figma,aws,cmake,docker,gitlab,gtk,nginx)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,ps,vercel,netlify,git,prisma,bash,powershell,linux,figma,aws,cmake,docker,gitlab,gtk,nginx">
