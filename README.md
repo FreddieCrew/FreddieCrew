@@ -10,7 +10,7 @@
   I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
   </p>
 <h3>Techstack</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,nextjs,react,nuxtjs,vue,js,ts,python,go,php,tailwind,bootstrap,nodejs">
+<img src="https://skillicons.dev/icons?i=c,cpp,nextjs,react,nuxtjs,vue,js,ts,python,go,php,tailwind,css,bootstrap,nodejs">
 
 <h3>Databases</h3>
 <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongodb,sqlite,postgres,firebase,dynamodb">
