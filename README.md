@@ -6,6 +6,8 @@
   <p>
   I love programming, playing basketball, playing games, astronomy, physics.
   I'm born in El Paso, TX, but I currently live in Houston, TX. 
+
+  I'm a huge fan of tactical shooters(Arma, Ghost Recon, SWAT, EFT, Ground Branch)
   
   I'm a Hardware Engineer. Primarily a Web Developer, but I also love C/C++/Pawn programming.
   </p>
@@ -16,4 +18,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongodb,sqlite,postgres,firebase,dynamodb">
 
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,ps,vercel,netlify,git,prisma,bash,linux,figma,aws,cmake,gtk,qt">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,vercel,netlify,git,bash,linux,figma,aws,cmake,gtk,qt">
