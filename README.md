@@ -18,4 +18,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongodb,sqlite,postgres,firebase,dynamodb">
 
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,vercel,netlify,git,bash,linux,figma,aws,cmake,gtk,qt">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,vercel,netlify,git,bash,figma,cmake,gtk,qt,aws">
