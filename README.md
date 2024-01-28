@@ -1,7 +1,7 @@
 # About Me
 
 ## Favorite Movie
-Pcking a favorite movie is tough because I'm into so many, but if I had to choose, it's probably either "Forrest Gump" or "Full Metal Jacket." Both are just awesome '90s flicks.
+Pcking a favorite movie is tough because I'm into so many, but if I had to choose, it's probably either "Forrest Gump" or "Full Metal Jacket", both are just awesome '90s flicks.
 
 
 ## Favorite Music Genres
