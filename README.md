@@ -10,7 +10,7 @@ Definitely rap and rock.
 Probably "Whiskey-Rock-a-Roller" by Skynyrd
 
 ## Your first programming language
-Can't really pinpoint my first language, but I think it was GTA3SCRIPT back when I was a kid fucking around, didn't know squat back then, but the language that really gotten me into programming though was Pawn.
+I can't really pinpoint my first language, but I think it was GTA3SCRIPT back when I was a kid fucking around, didn't know squat back then, but the language that really gotten me into programming though was Pawn.
 
 ## Techstack
 JS/TS and Pawn, and sometimes fucking around with C and C++.
